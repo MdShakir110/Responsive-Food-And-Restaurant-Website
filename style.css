@@ -183,7 +183,7 @@ nav-link{
 /* top banner design */
 .top-banner{
     width: 100%;
-    background-image: url(shajaa.jpg);
+    background-image: url(/images/shajaa.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -235,7 +235,7 @@ nav-link{
 .story-section{
     width: 100%;
     height: 28.125rem;
-    background: url(bg-2.jpg);
+    background: url(/images/bg-2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -310,7 +310,7 @@ nav-link{
     margin-right: 0.3125rem;
 }
 .book-food{
-    background: url(bg-3.jpg) center;
+    background: url(/images/bg-3.jpg) center;
     width: 100%;
     background-attachment: fixed;
     background-size: cover;
